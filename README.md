@@ -1,4 +1,4 @@
-Exercícios de Sistemas Operacionais
+<br>Exercícios de Sistemas Operacionais</br>
 
 Repositório destinado aos exercícios da disciplina de Sistemas Operacionais, do curso de Análise e Desenvolvimento de Sistemas da FATEC Zona Leste.
 

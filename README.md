@@ -1,17 +1,17 @@
-#Exercícios de Sistemas Operacionais
+#**Exercícios de Sistemas Operacionais**
 
-Repositório destinado aos exercícios da disciplina de Sistemas Operacionais, do curso de Análise e Desenvolvimento de Sistemas da FATEC Zona Leste.
+Este repositório é destinado aos exercícios da disciplina de Sistemas Operacionais, do curso de Análise e Desenvolvimento de Sistemas da FATEC Zona Leste.
 
-##Tecnologias utilizadas:
+##**Tecnologias utilizadas:**
 
--> Python 3
+1- Python 3
 
--> Linux
+2- Linux
 
--> Git e GitHub
+3- Git e GitHub
 
-##Conteúdo:
+##**Conteúdo:**
 
-Teste 01: Tabuada utilizando funções e gravação de resultados em arquivo .txt.
+Teste 01: Tabuada utilizando funções e gravação de resultados em arquivo.txt.
 
-Teste 02: Cadastro de alunos, cálculo de médias e armazenamento dos dados em arquivo .txt.
+Teste 02: Cadastro de alunos, cálculo de médias e armazenamento dos dados em arquivo.txt.
